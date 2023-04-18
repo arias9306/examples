@@ -2,7 +2,7 @@
 
 - [Syncfusion](https://ej2.syncfusion.com/angular/documentation/schedule/getting-started)
 - [Angular Calendar](https://mattlewis92.github.io/angular-calendar/#/kitchen-sink)
--
+- [Full Calendar](https://fullcalendar.io/)
 
 # Examples
 
